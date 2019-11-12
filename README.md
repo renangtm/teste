@@ -81,7 +81,7 @@ Exemplo:
       {
         "remetente":"BANCOX",
         "destinatario":"BANCOY",
-        "linha":"TED0114004851Antonio Alves da Silva        54561747150003256924032017","TED0114004851Antonio Alves da Silva        54561747150003256924032017"
+        "linha":"TED0114004851Antonio Alves da Silva        54561747150003256924032017"
       }
 
   
